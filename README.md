@@ -1,0 +1,2 @@
+# IsPrime
+Prime number finder
